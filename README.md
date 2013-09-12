@@ -1,0 +1,1 @@
+Talkie Trot is built using responsive, "Mobile First" Twitter Bootstrap RC3. In addition, AngularJS has been incorporated to provide a basic site template (index.html), includes for common area of the site (navigation, header and footer) and directives for DOM manipulation to provide the look and feel of a single page application.
